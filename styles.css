@@ -65,3 +65,17 @@ body{
 .card-info h1{
     margin-bottom: 1em;
 }
+
+.card-footer img{
+    width: 10%;
+}
+
+.card-footer p{
+    margin-left: 1.2em;
+}
+
+.card-footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
