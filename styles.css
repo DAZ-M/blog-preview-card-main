@@ -61,3 +61,7 @@ body{
     margin: -1.2em 0 0.8em 0.8em;
     background-color: var(--yellow);
 }
+
+.card-info h1{
+    margin-bottom: 1em;
+}
